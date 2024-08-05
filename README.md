@@ -1,6 +1,6 @@
 # Quera
 ## Description
-Welcome to my GitHub repository where I share my solutions to programming challenges from Quera.ir. Here, you'll find a collection of my code implementations, covering a variety of problem-solving techniques, algorithms, and data structures.
+Welcome to my GitHub repository where I share my solutions to programming challenges from [Quera.org](https://quera.org/problemset). Here, you'll find a collection of my code implementations, covering a variety of problem-solving techniques, algorithms, and data structures.
 
 ## Purpose
 This repository serves as a personal archive of my progress and learning, as well as a resource for others who may find the solutions helpful in their own journey.
